@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--system-->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--font-->
+    <color name="c_3">#333333</color>
+    <color name="c_6">#666666</color>
+    <color name="c_9">#999999</color>
+    <color name="c_c">#cccccc</color>
+
+    <!--common-->
+    <color name="main">#27AEFA</color>
+    <color name="divider">#EFEFEF</color>
+    <color name="white">#FFFFFF</color>
+</resources>
